@@ -7,7 +7,7 @@ public class Lamp implements Serializable{
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	public String name;
+	public String name;// атрибуты доступа, ну пожалуйста, используйте правильные атрибуты доступа)))))
 	public String color;
 	Lightbulb lightbulb;
 	
